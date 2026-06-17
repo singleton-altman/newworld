@@ -1,14 +1,6 @@
 # 第七章 历史车轮
-
-**卷**: 02-棉花帝国
-
-**章节数**: 6
-
-**目录**:
-
-- [第一节](section-01.md)
-- [一](section-02.md)
-- [二](section-03.md)
-- [三](section-04.md)
-- [四](section-05.md)
-- [五](section-06.md)
+    * [引言](section-01.md)
+    * [一](section-02.md)
+    * [三](section-03.md)
+    * [四](section-04.md)
+    * [五](section-05.md)

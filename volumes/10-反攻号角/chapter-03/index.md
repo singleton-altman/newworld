@@ -1,13 +1,5 @@
 # 第三章 田纳西之役
-
-**卷**: 10-反攻号角
-
-**章节数**: 5
-
-**目录**:
-
-- [第一节](section-01.md)
-- [一](section-02.md)
-- [二](section-03.md)
-- [三](section-04.md)
-- [四](section-05.md)
+    * [引言](section-01.md)
+    * [一](section-02.md)
+    * [二](section-03.md)
+    * [四](section-04.md)
