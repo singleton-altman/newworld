@@ -610,6 +610,7 @@
     * [四](volumes/09-向南进军/chapter-07/section-05.md)
     * [五](volumes/09-向南进军/chapter-07/section-06.md)
     * [六](volumes/09-向南进军/chapter-07/section-07.md)
+    * [念安](volumes/09-向南进军/chapter-07/section-08.md)
 
 ## 第十卷 · 反攻号角
 
@@ -791,6 +792,7 @@
     * [四](volumes/12-新大陆/chapter-06/section-05.md)
     * [五](volumes/12-新大陆/chapter-06/section-06.md)
     * [六](volumes/12-新大陆/chapter-06/section-07.md)
+    * [赵家的孩子们](volumes/12-新大陆/chapter-06/section-08.md)
 * [第七章 终章·回望](volumes/12-新大陆/chapter-07/index.md)
     * [第七章：终章·回望](volumes/12-新大陆/chapter-07/section-01.md)
     * [一](volumes/12-新大陆/chapter-07/section-02.md)
@@ -799,4 +801,5 @@
     * [四](volumes/12-新大陆/chapter-07/section-05.md)
     * [五](volumes/12-新大陆/chapter-07/section-06.md)
     * [平安](volumes/12-新大陆/chapter-07/section-07.md)
+    * [两个世界的孩子](volumes/12-新大陆/chapter-07/section-08.md)
 
