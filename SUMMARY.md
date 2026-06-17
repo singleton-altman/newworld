@@ -212,6 +212,7 @@
     * [第六节](volumes/03-风暴前夜/chapter-07/section-07.md)
     * [第七节](volumes/03-风暴前夜/chapter-07/section-08.md)
     * [第八节](volumes/03-风暴前夜/chapter-07/section-09.md)
+    * [故乡的歌声](volumes/03-风暴前夜/chapter-07/section-10.md)
 
 ## 第四卷 · 脱离联邦
 
@@ -256,6 +257,7 @@
     * [第三节](volumes/04-脱离联邦/chapter-05/section-04.md)
     * [第四节](volumes/04-脱离联邦/chapter-05/section-05.md)
     * [第五节](volumes/04-脱离联邦/chapter-05/section-06.md)
+    * [另一个世界的话](volumes/04-脱离联邦/chapter-05/section-07.md)
 * [第六章 战地婚礼](volumes/04-脱离联邦/chapter-06/index.md)
     * [第一节](volumes/04-脱离联邦/chapter-06/section-01.md)
     * [第一节](volumes/04-脱离联邦/chapter-06/section-02.md)
@@ -341,7 +343,7 @@
     * [四](volumes/05-初战风云/chapter-07/section-05.md)
     * [五](volumes/05-初战风云/chapter-07/section-06.md)
     * [六](volumes/05-初战风云/chapter-07/section-07.md)
-    * [七](volumes/05-初战风云/chapter-07/section-08.md)
+    * [战地之手](volumes/05-初战风云/chapter-07/section-08.md)
 
 ## 第六卷 · 钢铁洪流
 
@@ -406,6 +408,7 @@
     * [五](volumes/06-钢铁洪流/chapter-07/section-06.md)
     * [六](volumes/06-钢铁洪流/chapter-07/section-07.md)
     * [七](volumes/06-钢铁洪流/chapter-07/section-08.md)
+    * [裂痕](volumes/06-钢铁洪流/chapter-07/section-09.md)
 
 ## 第七卷 · 密西西比
 
@@ -464,6 +467,7 @@
     * [五](volumes/07-密西西比/chapter-06/section-06.md)
     * [六](volumes/07-密西西比/chapter-06/section-07.md)
     * [七](volumes/07-密西西比/chapter-06/section-08.md)
+    * [西线月夜](volumes/07-密西西比/chapter-06/section-09.md)
 * [第七章 东方的武士](volumes/07-密西西比/chapter-07/index.md)
     * [第七章：东方的武士](volumes/07-密西西比/chapter-07/section-01.md)
     * [一](volumes/07-密西西比/chapter-07/section-02.md)
@@ -539,6 +543,7 @@
     * [五](volumes/08-葛底斯堡/chapter-07/section-06.md)
     * [六](volumes/08-葛底斯堡/chapter-07/section-07.md)
     * [七](volumes/08-葛底斯堡/chapter-07/section-08.md)
+    * [三天三夜](volumes/08-葛底斯堡/chapter-07/section-09.md)
 
 ## 第九卷 · 向南进军
 
@@ -588,6 +593,7 @@
     * [六](volumes/09-向南进军/chapter-05/section-07.md)
     * [七](volumes/09-向南进军/chapter-05/section-08.md)
     * [八](volumes/09-向南进军/chapter-05/section-09.md)
+    * [火场中的选择](volumes/09-向南进军/chapter-05/section-10.md)
 * [第六章 萨凡纳之战](volumes/09-向南进军/chapter-06/index.md)
     * [引言](volumes/09-向南进军/chapter-06/section-01.md)
     * [一](volumes/09-向南进军/chapter-06/section-02.md)
@@ -657,6 +663,7 @@
     * [四](volumes/10-反攻号角/chapter-07/section-05.md)
     * [五](volumes/10-反攻号角/chapter-07/section-06.md)
     * [六](volumes/10-反攻号角/chapter-07/section-07.md)
+    * [共存](volumes/10-反攻号角/chapter-07/section-08.md)
 
 ## 第十一卷 · 华盛顿陷落
 
@@ -721,6 +728,7 @@
     * [七](volumes/11-华盛顿陷落/chapter-06/section-08.md)
     * [八](volumes/11-华盛顿陷落/chapter-06/section-09.md)
     * [九](volumes/11-华盛顿陷落/chapter-06/section-10.md)
+    * [下辈子](volumes/11-华盛顿陷落/chapter-06/section-11.md)
 * [第七章 重新开始](volumes/11-华盛顿陷落/chapter-07/index.md)
     * [第七章：重新开始](volumes/11-华盛顿陷落/chapter-07/section-01.md)
     * [一](volumes/11-华盛顿陷落/chapter-07/section-02.md)
@@ -790,4 +798,5 @@
     * [三](volumes/12-新大陆/chapter-07/section-04.md)
     * [四](volumes/12-新大陆/chapter-07/section-05.md)
     * [五](volumes/12-新大陆/chapter-07/section-06.md)
+    * [平安](volumes/12-新大陆/chapter-07/section-07.md)
 
